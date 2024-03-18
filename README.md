@@ -1,7 +1,3 @@
+# Tab Saver
 
-
-
-storage
-```shell
-pnpm install @plasmohq/storage
-```
+一个保存标签页的浏览器插件
